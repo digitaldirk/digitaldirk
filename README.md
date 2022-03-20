@@ -1,0 +1,4 @@
+- C# 
+- ASP.NET
+- Xamarin/MAUI
+- Game Development
